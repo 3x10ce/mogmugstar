@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+@font-face {
+    font-family: PixelMplus10;
+    src:url('./assets/PixelMplus12-Regular.woff2') format('woff2'),
+        url('./assets/PixelMplus12-Regular.woff') format('woff'),
+        url('./assets/PixelMplus12-Regular.ttf') format('truetype');
+}
+
